@@ -1,7 +1,7 @@
 # Winning_SpaceRace_using_DataScience
 An end to end Data Science Project for Space Race
 
-**About the Project**
+**About the Project** <br>
 The project herein, is an end to end Data Science project, i.e it includes elements from data collection 
 and web scraping to final deployment of the resultant analysis as an interactive dashboard. It contains the 
 following steps :- 
@@ -14,10 +14,10 @@ following steps :-
 * Building an interactive Dashboard with Plotly Dash
 * Predictive analytics (Classification)
 
-**Goal**
+**Goal** <br>
 To predict whether SpaceX Falcon 9's first stage landing will be successful or not. 
-
-**Project Background and Context**
+ <br>
+**Project Background and Context** <br>
 In a rocket launch project, the most cost defining cost factor is the first stage booster (The Most Expensive Part).
 If somehow SpaceX can reuse this part they can save a lot of money in the project. This is crucial because SpaceX 
 advertises Falcon 9's launch to cost 62 million dollars while other providers charge upwards of 165 million dollars. 
